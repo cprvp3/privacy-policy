@@ -1,36 +1,17 @@
-<style>
-.box-container{
-display:flex;
-align-items:center;
-}
-.box-item{
-border:1px solid gray;
-
-width:fit-content;
-padding: 2px 4px;
-gap:4px;
-}
-
-.separator{
-border-right:1px solid gray;
-}
-
-</style>
-
 <div>
 <div class="box-container">
 <span class="box-item">
-CPRv Dados Política de privacidade
+CPE Dados Política de privacidade
 </span>
 <span class="box-item">
 PMMG
 </span>
 </div>
 <h1>
-Política de privacidade - CPRv Dados
+Política de privacidade - CPE Dados
 </h1>
 <p>
-Este aplicativo é oficial e visa facilitar o acesso aos dados oficiais disponíveis no Comando de Policiamento Rodoviário - CPRv da Polícia Militar de Minas Gerais - PMMG. Ainda, é uma iniciativa para possibilitar uma melhor utilização pelo usuário militar estadual de Minas Gerais dos sistemas de gestão operacionais internos.
+Este aplicativo é oficial e visa facilitar o acesso aos dados oficiais disponíveis no Comando de Policiamento Rodoviário - CPE da Polícia Militar de Minas Gerais - PMMG. Ainda, é uma iniciativa para possibilitar uma melhor utilização pelo usuário militar estadual de Minas Gerais dos sistemas de gestão operacionais internos.
 
 O aplicativo não coleta nem transmite nenhuma informação pessoal do usuário em seus servidores, com exceção das informações inerentes ao funcionamento do aplicativo através da Internet, veja em Dados de Uso. Todas as informações ficam salvas apenas no dispositivo do usuário.</p>
 
@@ -45,7 +26,7 @@ Os Dados Pessoais são coletados para os seguintes fins e usando os seguintes se
 
 <strong>Firebase</strong>
 
-O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em Sobre o Firebase,  Política de privacidade do Firebase.
+O Firebase é uma plataforma da Google que nos ajuda a construir aplicativos melhores e entender melhor nossos usuários. Mais informações sobre o Firebase em Sobre o Firebase, Política de privacidade do Firebase.
 
 <strong>Crashlytics (Firebase)</strong>
 
@@ -57,7 +38,8 @@ O Google Analytics é um serviço de análise da web fornecido pela Google Inc. 
 
 <strong>Mapa de interdições</strong>
 
-O Mapa de Interdições é uma ferramenta disponibilizada pelo Comando de Policiamento Rodoviário - CPRv para fins de visualização dos pontos de interdições nas rodovias dentro do Estado de Minas Gerais. A funcionalidade "REGISTRAR INTERDIÇÃO" dará ao usuário do sistema (usuários cadastrados), após a devida permissão do usuário de coleta anônima da geolocalização exata do aparelho, registrar junto ao sistema interno do CPRv um ponto de interdição.
+O Mapa de Interdições é uma ferramenta disponibilizada pelo Comando de Policiamento Especializado - CPE - para fins de visualização dos pontos de interdições nas rodovias dentro do Estado de Minas Gerais. A funcionalidade "REGISTRAR INTERDIÇÃO" dará ao usuário do sistema (usuários cadastrados), após a devida permissão do usuário de coleta anônima da geolocalização exata do aparelho ou a inserção manual feita pelo usuário das coordenadas geográficas, registrar junto ao sistema interno do CPE um ponto de interdição.
+
 </p>
 <h2>
 Definições e referências legais
@@ -85,7 +67,7 @@ A pessoa física ou jurídica, autoridade pública, agência ou outro órgão qu
 
 <h5>Controlador de dados (ou proprietário)</h5>
 
-A pessoa singular ou coletiva, autoridade pública, agência ou outro organismo que, individualmente ou em conjunto com outros, determina os objetivos e os meios de processamento de Dados Pessoais, incluindo as medidas de segurança relativas ao funcionamento e uso do aplicativo CPRv DADOS. O Controlador de Dados, a menos que especificado de outra forma, é o desenvolvedor Luís Gustavo Ferreira Leite.
+A pessoa singular ou coletiva, autoridade pública, agência ou outro organismo que, individualmente ou em conjunto com outros, determina os objetivos e os meios de processamento de Dados Pessoais, incluindo as medidas de segurança relativas ao funcionamento e uso do aplicativo CPE. O Controlador de Dados, a menos que especificado de outra forma, é o desenvolvedor Luís Gustavo Ferreira Leite.
 
 <h5>Sistemas Mobile (ou este aplicativo)</h5>
 
@@ -93,7 +75,7 @@ Os meios pelos quais os Dados Pessoais do Usuário são coletados e processados.
 
 <h5>Serviço</h5>
 
-O serviço é fornecido por Robson de Almeida Machado conforme descrito nos termos relativos (se disponível) e neste site / aplicativo.
+O serviço é fornecido pelo Centro de Tecnologia e Sistemas - CTS - conforme descrito nos termos relativos (se disponível) e neste site / aplicativo.
 
 <h5>Cookies</h5>
 
@@ -106,6 +88,7 @@ Esta declaração de privacidade foi preparada com base em disposições de múl
 Esta política de privacidade refere-se unicamente ao Aplicativo CPRv DADOS, se não indicado de outra forma neste documento.
 
 Ao utilizar o Aplicativo CPRv DADOS você concorda com os termos desse documento.
+
 </p>
 <p style="text-align:right; font-weight:bold; font-style:italic;">Última atualização: 19 de Fevereiro de 2024.</p>
 </div>
